@@ -1,46 +1,79 @@
-# FUTURE_CS_02 – Phishing Detection & Awareness Report
+FUTURE_CS_02 – Phishing Detection & Awareness Report
+👩‍💻 Prepared By
 
-## 👩‍💻 Prepared By
-Anaamika KS  
-Future Interns – Cyber Security Internship  
+Anaamika KS
+Future Interns – Cyber Security Internship
 
-## 🎯 Objective
+🌐 Project Overview
 
-To analyze phishing email samples, identify common phishing indicators, classify email risk levels, and provide prevention and awareness guidelines to help users avoid phishing attacks.
+This project focuses on analyzing phishing email samples to identify common attack techniques and educate users on how to detect and prevent phishing attacks.
+Phishing remains one of the most common cyber threats targeting individuals and organizations. This report demonstrates structured email analysis and provides practical awareness guidelines to reduce human-related security risks.
 
-## 🔎 Analysis Approach
+🎯 Objective
 
-The following structured approach was followed:
+The objective of this task is to:
 
-1. Collected phishing email samples.
-2. Analyzed subject lines and email content.
-3. Inspected sender domains and embedded links.
-4. Identified phishing indicators (urgency, fear tactics, suspicious domains, generic greetings).
-5. Classified email risk levels (High Risk – Phishing).
-6. Documented findings clearly.
-7. Developed prevention and awareness guidelines.
+Analyze phishing email samples
+Identify phishing indicators
+Classify email risk levels
+Explain how phishing attacks work
+Develop user awareness and prevention guidelines
 
-## 🛠 Tools Used
+🔎 Scope
 
-- Manual email content analysis
-- Domain and link structure inspection
-- Security awareness best practices
+The assessment was limited to:
 
-(No exploitation or malicious testing was performed.)
+Manual analysis of phishing email content
+Inspection of suspicious domains and embedded links
+Risk classification (Safe / Suspicious / Phishing)
+Development of awareness guidelines
 
+The following activities were excluded:
 
-## 📌 Deliverables
+Exploitation attempts
+Malware execution
+Active link interaction
+Any malicious testing
 
-- Phishing Detection & Awareness Report (PDF)
-- Sample email evidence (available in the /evidence folder)
+🛠 Tools & Methods Used
 
+Manual content analysis of email structure
+Inspection of sender domain patterns
+Review of embedded URLs
+Security awareness best practices
+No offensive security techniques were used.
 
-## 📂 Repository Structure
+📧 Email Samples Analyzed
 
-FUTURE_CS_02
-│
-├── FUTURE_CS_02_Phishing_Detection_Awareness_Report_Anaamika_KS.pdf
-├── evidence/
-│   ├── sample_email_1.txt
-│   ├── sample_email_2.txt
-└── README.md
+Two phishing email samples were analyzed as part of this task:
+
+Account Suspension / Verification Email
+Bank Account Suspension Email
+Each sample was examined for red flags such as urgency, generic greetings, suspicious links, and credential harvesting attempts.
+
+📊 Risk Classification
+
+Both analyzed samples were classified as:
+
+🔴 High Risk – Phishing
+
+Due to:
+
+Social engineering techniques
+Fear-based messaging
+Suspicious domains
+Credential harvesting attempts
+
+🛡 Awareness & Prevention Focus
+
+The report includes:
+
+Common phishing indicators
+Do’s and Don’ts for employees
+Organizational awareness recommendations
+Guidance for reducing phishing risk
+
+📄 Deliverables
+
+Phishing Detection & Awareness Report (PDF)
+Sample email evidence (available in /evidence folder)
