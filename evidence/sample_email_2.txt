@@ -1,0 +1,13 @@
+Subject: Your Bank Account Has Been Suspended
+
+Dear Customer,
+
+Due to unusual activity, your bank account has been temporarily suspended.
+
+To restore access, please confirm your banking credentials immediately by clicking below:
+
+http://secure-bank-update[.]net
+
+Failure to comply will result in permanent closure of your account.
+
+Bank Support Team
