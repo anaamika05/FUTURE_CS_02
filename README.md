@@ -4,13 +4,9 @@
 Anaamika KS  
 Future Interns – Cyber Security Internship  
 
----
-
 ## 🎯 Objective
 
 To analyze phishing email samples, identify common phishing indicators, classify email risk levels, and provide prevention and awareness guidelines to help users avoid phishing attacks.
-
----
 
 ## 🔎 Analysis Approach
 
@@ -24,8 +20,6 @@ The following structured approach was followed:
 6. Documented findings clearly.
 7. Developed prevention and awareness guidelines.
 
----
-
 ## 🛠 Tools Used
 
 - Manual email content analysis
@@ -34,14 +28,12 @@ The following structured approach was followed:
 
 (No exploitation or malicious testing was performed.)
 
----
 
 ## 📌 Deliverables
 
 - Phishing Detection & Awareness Report (PDF)
 - Sample email evidence (available in the /evidence folder)
 
----
 
 ## 📂 Repository Structure
 
